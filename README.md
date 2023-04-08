@@ -1,6 +1,6 @@
 #Typing-Speed-Tester⌨
 
-##Rupesh 
+#Rupesh 
 
 <h3 align="center">Game developed using PyQT5 framework in Python to measure a user's typing speed.</h3>
 
